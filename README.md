@@ -25,9 +25,9 @@ The specific features of this application, along with the user interactions, are
 7. When the user refreshes the page, the saved tasks presist
 
 ## Project GitHub Links
-Project repo: 
+Project repo: https://github.com/reztndev/Task-Board
 
-Deployed app: 
+Deployed app: https://reztndev.github.io/Task-Board/
 
 ## Screenshot of the Application
 ![Screenshot #1 of the application:](./assets/images/Kanban-board.png)
